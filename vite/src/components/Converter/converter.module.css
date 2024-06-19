@@ -1,0 +1,23 @@
+.input {
+    background-color: darkgray;
+    text-align: center;
+    border: 1px solid white;
+    border-radius: 5px;
+    min-height: 30px;
+}
+
+.output {
+    margin-top: 10px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    border: 1px solid white;
+    border-radius: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    min-height: 30px;
+}
+
+.output p {
+    margin: 0;
+}
